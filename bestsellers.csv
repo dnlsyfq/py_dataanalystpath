@@ -1,0 +1,551 @@
+User Rating,Year,Genre
+4.7,2016,Non Fiction
+4.6,2011,Fiction
+4.7,2018,Non Fiction
+4.7,2017,Fiction
+4.8,2019,Non Fiction
+4.4,2011,Fiction
+4.7,2014,Fiction
+4.7,2017,Fiction
+4.7,2018,Non Fiction
+4.6,2016,Fiction
+4.6,2017,Fiction
+4.6,2010,Non Fiction
+4.6,2011,Non Fiction
+4.5,2018,Fiction
+4.6,2009,Non Fiction
+4.5,2016,Non Fiction
+4.6,2015,Non Fiction
+4.4,2015,Non Fiction
+4.5,2015,Non Fiction
+4.8,2016,Non Fiction
+4.6,2014,Fiction
+4.6,2015,Fiction
+3.9,2013,Fiction
+4.6,2015,Non Fiction
+4.3,2013,Fiction
+4.6,2009,Non Fiction
+4.7,2017,Non Fiction
+4.2,2010,Non Fiction
+4.6,2015,Non Fiction
+4.6,2015,Non Fiction
+4.8,2012,Non Fiction
+4.7,2010,Non Fiction
+4.8,2018,Non Fiction
+4.8,2019,Non Fiction
+4.8,2015,Non Fiction
+4.7,2015,Non Fiction
+4.7,2016,Non Fiction
+4.7,2016,Non Fiction
+4.6,2009,Fiction
+4.5,2010,Non Fiction
+4.9,2017,Fiction
+4.9,2019,Fiction
+4.8,2011,Fiction
+4.6,2016,Non Fiction
+4.8,2019,Non Fiction
+4.5,2014,Non Fiction
+4.7,2010,Fiction
+4.7,2011,Fiction
+4.7,2012,Fiction
+4.7,2016,Non Fiction
+4.7,2009,Non Fiction
+4.7,2010,Non Fiction
+4.7,2011,Non Fiction
+4.3,2018,Fiction
+4.8,2015,Non Fiction
+4.8,2015,Non Fiction
+4.6,2010,Fiction
+4.6,2011,Fiction
+4.8,2013,Non Fiction
+4.4,2013,Non Fiction
+4.6,2009,Fiction
+4.3,2010,Fiction
+4.2,2011,Fiction
+4.8,2015,Fiction
+4.8,2016,Fiction
+4.8,2017,Fiction
+4.8,2018,Fiction
+4.6,2010,Non Fiction
+4.6,2010,Non Fiction
+4.5,2013,Non Fiction
+4.5,2014,Non Fiction
+4.8,2013,Fiction
+4.8,2009,Fiction
+4.8,2014,Fiction
+4.6,2019,Non Fiction
+4.6,2013,Fiction
+4.6,2014,Fiction
+4.5,2014,Fiction
+4.6,2009,Non Fiction
+4.7,2013,Fiction
+4.8,2009,Fiction
+4.9,2018,Fiction
+4.9,2017,Fiction
+4.9,2018,Fiction
+4.9,2019,Fiction
+4.9,2019,Fiction
+4.9,2019,Fiction
+4.9,2018,Fiction
+4.8,2016,Fiction
+4.6,2015,Non Fiction
+4.5,2010,Non Fiction
+4.5,2009,Non Fiction
+4.3,2009,Non Fiction
+4.5,2011,Non Fiction
+4.5,2012,Non Fiction
+4.7,2009,Fiction
+4.7,2009,Fiction
+4.7,2018,Non Fiction
+4.7,2019,Non Fiction
+4.7,2015,Non Fiction
+4.6,2016,Fiction
+4.6,2018,Fiction
+4.7,2016,Fiction
+4.4,2018,Non Fiction
+4.4,2012,Fiction
+4.5,2012,Fiction
+3.8,2012,Fiction
+3.8,2013,Fiction
+4.5,2012,Fiction
+4.2,2018,Non Fiction
+4.7,2014,Non Fiction
+4.7,2015,Non Fiction
+4.7,2016,Non Fiction
+4.7,2017,Non Fiction
+4.7,2018,Non Fiction
+4.4,2010,Non Fiction
+4.7,2014,Fiction
+4.4,2010,Non Fiction
+4.6,2011,Fiction
+4.6,2012,Fiction
+4.6,2013,Fiction
+4.5,2010,Non Fiction
+4.6,2013,Non Fiction
+4.8,2015,Fiction
+4.8,2016,Fiction
+4.8,2017,Fiction
+4.8,2018,Fiction
+4.8,2019,Fiction
+4.6,2019,Non Fiction
+4.6,2018,Non Fiction
+4.6,2019,Non Fiction
+4.6,2009,Non Fiction
+3.6,2015,Fiction
+4.8,2011,Fiction
+4.6,2009,Non Fiction
+4,2012,Fiction
+4,2013,Fiction
+4,2014,Fiction
+4.6,2019,Non Fiction
+4.5,2009,Non Fiction
+4.5,2010,Non Fiction
+4.5,2011,Non Fiction
+4.5,2012,Non Fiction
+4.8,2017,Fiction
+4.8,2018,Fiction
+4.8,2019,Fiction
+4.9,2012,Fiction
+4.9,2013,Fiction
+4.6,2014,Non Fiction
+4.4,2015,Fiction
+4.8,2019,Non Fiction
+4.9,2016,Non Fiction
+4.8,2013,Non Fiction
+4.9,2016,Fiction
+4,2016,Fiction
+4.9,2019,Fiction
+4.9,2017,Fiction
+4.9,2016,Fiction
+4.7,2015,Non Fiction
+4.8,2016,Fiction
+4.8,2009,Non Fiction
+4.7,2011,Non Fiction
+4.7,2012,Non Fiction
+4.4,2016,Non Fiction
+4.4,2017,Non Fiction
+4.8,2018,Non Fiction
+4.7,2014,Non Fiction
+4.7,2015,Non Fiction
+4.7,2016,Non Fiction
+4.7,2017,Non Fiction
+4.7,2018,Non Fiction
+4.3,2019,Non Fiction
+4.8,2013,Non Fiction
+4.8,2014,Non Fiction
+4.9,2015,Non Fiction
+4.7,2013,Non Fiction
+4.8,2019,Non Fiction
+4.6,2009,Fiction
+4.8,2017,Fiction
+4.8,2019,Fiction
+4.3,2014,Fiction
+4.4,2011,Non Fiction
+4.1,2013,Fiction
+4.6,2011,Fiction
+4.4,2019,Non Fiction
+4.4,2018,Non Fiction
+4.8,2019,Non Fiction
+4.9,2011,Non Fiction
+4.9,2012,Non Fiction
+4.9,2013,Non Fiction
+4.9,2014,Non Fiction
+4.9,2015,Non Fiction
+4.9,2016,Non Fiction
+4.6,2014,Fiction
+4.5,2013,Fiction
+4.6,2017,Non Fiction
+4.5,2013,Non Fiction
+4.6,2012,Non Fiction
+4.7,2011,Non Fiction
+4.7,2012,Non Fiction
+4.6,2014,Non Fiction
+4.6,2015,Non Fiction
+4.8,2016,Non Fiction
+4.8,2018,Non Fiction
+4.5,2013,Non Fiction
+4.5,2014,Non Fiction
+4.5,2015,Non Fiction
+4.9,2018,Fiction
+4.6,2013,Non Fiction
+4.6,2014,Non Fiction
+4.6,2015,Non Fiction
+4.6,2016,Non Fiction
+4.6,2017,Non Fiction
+4.5,2013,Non Fiction
+4.5,2017,Non Fiction
+4.4,2018,Non Fiction
+4.8,2009,Non Fiction
+4.5,2010,Non Fiction
+4.1,2010,Fiction
+4.9,2014,Fiction
+4.5,2018,Fiction
+4.5,2014,Fiction
+4.2,2011,Non Fiction
+4.8,2014,Fiction
+4.8,2015,Fiction
+4.8,2018,Non Fiction
+4.5,2014,Non Fiction
+4.7,2017,Non Fiction
+4.8,2009,Non Fiction
+4.7,2016,Non Fiction
+4.7,2017,Non Fiction
+4.7,2018,Non Fiction
+4.4,2017,Non Fiction
+4.6,2014,Non Fiction
+4.6,2015,Non Fiction
+4.6,2016,Non Fiction
+4.5,2010,Fiction
+4.5,2011,Fiction
+4.5,2012,Fiction
+4.8,2019,Non Fiction
+4.8,2019,Non Fiction
+4.6,2009,Fiction
+4.7,2016,Non Fiction
+4.6,2012,Non Fiction
+4.9,2017,Non Fiction
+4.9,2012,Fiction
+4.9,2013,Fiction
+4.9,2014,Fiction
+4.9,2015,Fiction
+4.9,2016,Fiction
+4.9,2017,Fiction
+4.9,2018,Fiction
+4.9,2019,Fiction
+4.8,2015,Fiction
+4.2,2009,Fiction
+4.6,2011,Non Fiction
+4.6,2012,Non Fiction
+4.5,2017,Non Fiction
+4.3,2017,Fiction
+4.6,2014,Fiction
+4.6,2009,Non Fiction
+4.6,2010,Non Fiction
+4.7,2018,Non Fiction
+4.7,2019,Non Fiction
+4.8,2010,Fiction
+4.8,2017,Fiction
+4.8,2018,Fiction
+4.8,2019,Fiction
+4.7,2016,Fiction
+4.3,2012,Non Fiction
+4.3,2013,Non Fiction
+4.5,2009,Non Fiction
+4.5,2010,Non Fiction
+4.5,2011,Non Fiction
+4.5,2012,Non Fiction
+4.5,2013,Non Fiction
+4.5,2014,Non Fiction
+4.5,2015,Non Fiction
+4.5,2016,Non Fiction
+4.5,2017,Non Fiction
+4.5,2018,Non Fiction
+4.8,2017,Fiction
+4.6,2012,Non Fiction
+4.6,2013,Non Fiction
+4.7,2010,Non Fiction
+4.7,2011,Non Fiction
+4.6,2017,Fiction
+4.6,2018,Fiction
+4.9,2013,Fiction
+4.9,2014,Fiction
+4.8,2018,Non Fiction
+4.8,2019,Non Fiction
+4.6,2010,Fiction
+4.8,2018,Non Fiction
+4.8,2019,Non Fiction
+4.7,2015,Non Fiction
+4.7,2010,Non Fiction
+4.8,2018,Non Fiction
+4.1,2013,Non Fiction
+4.7,2009,Fiction
+4.6,2013,Non Fiction
+4.6,2011,Non Fiction
+4.6,2012,Non Fiction
+4.9,2019,Fiction
+4,2009,Non Fiction
+4,2010,Non Fiction
+4,2011,Non Fiction
+4,2012,Non Fiction
+4,2013,Non Fiction
+4,2014,Non Fiction
+4,2015,Non Fiction
+4,2016,Non Fiction
+4,2017,Non Fiction
+4.5,2009,Non Fiction
+4.6,2010,Non Fiction
+4.5,2013,Fiction
+4.4,2010,Non Fiction
+4.4,2011,Non Fiction
+4.3,2011,Non Fiction
+4.3,2011,Non Fiction
+4.7,2010,Non Fiction
+4.7,2011,Non Fiction
+4.7,2012,Non Fiction
+4.7,2013,Non Fiction
+4.7,2014,Non Fiction
+4.8,2015,Non Fiction
+4.8,2016,Non Fiction
+4.8,2017,Non Fiction
+4.8,2018,Non Fiction
+4.8,2019,Non Fiction
+4.8,2009,Non Fiction
+4.6,2009,Non Fiction
+4.6,2011,Non Fiction
+4.6,2012,Non Fiction
+4.6,2013,Non Fiction
+4.7,2015,Non Fiction
+4.7,2016,Non Fiction
+4.7,2017,Non Fiction
+4.7,2014,Fiction
+4.6,2012,Non Fiction
+4.7,2010,Fiction
+4.7,2011,Fiction
+4.7,2010,Non Fiction
+4.8,2014,Fiction
+4.2,2012,Non Fiction
+4.8,2019,Non Fiction
+4.7,2009,Non Fiction
+4.6,2013,Fiction
+4.6,2014,Fiction
+4.8,2014,Fiction
+4.8,2015,Fiction
+4.8,2014,Non Fiction
+4.8,2015,Non Fiction
+3.3,2012,Fiction
+4.7,2011,Non Fiction
+4.3,2018,Non Fiction
+4.3,2019,Non Fiction
+4.3,2010,Fiction
+4.8,2016,Non Fiction
+4.4,2010,Non Fiction
+4.8,2013,Fiction
+4.8,2014,Fiction
+4.8,2015,Fiction
+4.1,2011,Non Fiction
+4,2009,Fiction
+4.7,2012,Fiction
+4.7,2013,Fiction
+4.7,2014,Fiction
+4.7,2014,Fiction
+4.6,2009,Non Fiction
+4.6,2010,Non Fiction
+4.6,2011,Non Fiction
+4.6,2012,Non Fiction
+4.6,2013,Non Fiction
+4.6,2009,Non Fiction
+4.7,2013,Non Fiction
+4.7,2015,Non Fiction
+4.7,2016,Non Fiction
+4.7,2017,Non Fiction
+4.7,2018,Non Fiction
+4.7,2019,Non Fiction
+4.8,2017,Fiction
+4.1,2015,Fiction
+4.1,2016,Fiction
+4.7,2010,Fiction
+4.7,2011,Fiction
+4.7,2010,Fiction
+4.7,2009,Fiction
+4.4,2009,Fiction
+4.4,2010,Fiction
+4.8,2016,Fiction
+4.8,2017,Fiction
+3.9,2013,Fiction
+3.9,2014,Fiction
+4.4,2012,Fiction
+4.4,2013,Fiction
+4.4,2014,Fiction
+4.5,2019,Fiction
+4.7,2009,Fiction
+4.3,2017,Fiction
+4.6,2012,Fiction
+4.8,2018,Fiction
+4.8,2009,Fiction
+4.8,2010,Fiction
+4.8,2011,Fiction
+4.8,2011,Fiction
+4.8,2013,Fiction
+4.7,2010,Fiction
+4.7,2011,Fiction
+4.7,2012,Fiction
+4.8,2011,Fiction
+4.8,2012,Fiction
+4.7,2010,Non Fiction
+4.7,2011,Non Fiction
+4.7,2012,Non Fiction
+4.3,2017,Non Fiction
+4.3,2018,Non Fiction
+4.7,2009,Non Fiction
+4.8,2009,Fiction
+4.8,2010,Fiction
+4.9,2013,Fiction
+4.4,2011,Non Fiction
+4.4,2012,Non Fiction
+4.5,2015,Non Fiction
+4.5,2016,Non Fiction
+4.5,2017,Non Fiction
+4.5,2019,Non Fiction
+4.4,2011,Fiction
+4.8,2010,Fiction
+4.2,2009,Fiction
+4.8,2009,Non Fiction
+4.9,2016,Non Fiction
+4.8,2012,Fiction
+4.7,2015,Fiction
+4.5,2014,Fiction
+4.8,2018,Fiction
+4.6,2019,Non Fiction
+4.8,2015,Fiction
+4.8,2016,Fiction
+4.4,2010,Non Fiction
+4.4,2011,Non Fiction
+4.4,2012,Non Fiction
+4.4,2013,Non Fiction
+4.4,2014,Non Fiction
+4.3,2016,Non Fiction
+4.3,2011,Fiction
+4.8,2013,Non Fiction
+4.8,2015,Non Fiction
+4.8,2012,Non Fiction
+4.5,2018,Non Fiction
+4.4,2018,Non Fiction
+4.8,2017,Fiction
+4.8,2018,Fiction
+4.6,2012,Non Fiction
+4.3,2018,Fiction
+4.3,2012,Fiction
+4.6,2010,Fiction
+4.6,2010,Non Fiction
+4.8,2012,Fiction
+4.6,2009,Fiction
+4.6,2017,Fiction
+4.6,2010,Fiction
+4.5,2019,Fiction
+4.8,2011,Fiction
+4.6,2017,Non Fiction
+4.6,2018,Non Fiction
+4.6,2019,Non Fiction
+4.7,2017,Non Fiction
+4.7,2012,Fiction
+4.7,2011,Fiction
+4.4,2009,Fiction
+4.4,2009,Non Fiction
+4.7,2019,Non Fiction
+4.7,2009,Fiction
+4.8,2010,Fiction
+4.7,2019,Non Fiction
+4.9,2013,Fiction
+4.9,2014,Fiction
+4.9,2015,Fiction
+4.9,2016,Fiction
+4.9,2017,Fiction
+4.9,2018,Fiction
+4.9,2019,Fiction
+4.6,2015,Non Fiction
+4.6,2016,Non Fiction
+4.6,2017,Non Fiction
+4.9,2016,Fiction
+4.9,2017,Fiction
+4.9,2018,Fiction
+4.9,2019,Fiction
+4.8,2018,Fiction
+4.8,2019,Fiction
+4.7,2015,Non Fiction
+4.7,2013,Non Fiction
+4.6,2011,Non Fiction
+4.6,2012,Non Fiction
+4.5,2017,Fiction
+4.5,2012,Non Fiction
+4.3,2009,Non Fiction
+4.3,2010,Non Fiction
+4.6,2014,Non Fiction
+4.6,2015,Non Fiction
+4.6,2016,Non Fiction
+4.6,2017,Non Fiction
+4.3,2011,Non Fiction
+4.8,2013,Fiction
+4.8,2014,Fiction
+4.8,2015,Fiction
+4.8,2016,Fiction
+4.8,2019,Fiction
+4.6,2017,Non Fiction
+4.8,2010,Fiction
+4.5,2009,Non Fiction
+4.7,2009,Fiction
+4.5,2014,Fiction
+4.8,2010,Non Fiction
+4.8,2011,Non Fiction
+4.8,2012,Non Fiction
+4.8,2014,Non Fiction
+4.8,2014,Non Fiction
+4.3,2009,Fiction
+4.9,2019,Non Fiction
+4.8,2019,Non Fiction
+4.7,2016,Non Fiction
+4.8,2009,Fiction
+4.5,2011,Fiction
+4.6,2017,Non Fiction
+4.7,2014,Non Fiction
+4.7,2015,Fiction
+4.8,2019,Fiction
+4.4,2011,Non Fiction
+4.4,2012,Non Fiction
+4.4,2013,Non Fiction
+4.8,2016,Non Fiction
+4.8,2019,Fiction
+4.8,2009,Fiction
+4.6,2018,Non Fiction
+4.4,2012,Non Fiction
+4.5,2012,Fiction
+4.2,2010,Non Fiction
+4.8,2013,Fiction
+4.8,2014,Fiction
+4.8,2015,Fiction
+4.8,2016,Fiction
+4.8,2017,Fiction
+4.9,2019,Fiction
+4.7,2016,Non Fiction
+4.7,2017,Non Fiction
+4.7,2018,Non Fiction
+4.7,2019,Non Fiction
